@@ -2,7 +2,7 @@
 pragma solidity ^0.6.0;
 
 import "forge-std/Script.sol";
-import "../instances/Ilevel12.sol";
+import "../instances/instancePrivacy.sol";
 
 contract POC is Script {
 
